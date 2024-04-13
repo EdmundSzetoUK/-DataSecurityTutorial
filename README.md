@@ -5,6 +5,8 @@ Data Security Tutorial: Protect your critical data
 
 Data security is paramount in modern IT systems, where sensitive information such as intellectual property and customer data is the lifeblood of operations. Protecting this data is crucial to prevent unauthorized access and breaches by malicious actors. In this tutorial, we'll discuss six key points in data security and how to implement them effectively.
 
+<img align="center" src="/Diagram/Data Security Cycle.png" alt="Banner" />
+
 ### 1. Governance
 
 Governance involves establishing policies, classification schemes, data cataloging, and resilience plans to define how data should be protected. By setting clear guidelines and protocols, organizations can ensure consistency and accountability in their data security practices.
