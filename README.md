@@ -66,3 +66,7 @@ Response entails creating cases, assigning investigations, using dynamic playboo
 - Orchestrate response actions to contain and mitigate security threats.
 - Learn from security incidents and incorporate feedback into improving data security practices.
 
+
+## Reference
+[Data Security: Protect your critical data (or else)](https://youtu.be/N8xEgSe5RwE?si=i6zSyj-gnWFxJ3wQ)
+
