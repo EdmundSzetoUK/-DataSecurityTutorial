@@ -1,7 +1,7 @@
 # DataSecurityTutorial
 Data Security Tutorial: Protect your critical data
 
-## Data Security Tutorial
+## Data Security - Cycle
 
 Data security is paramount in modern IT systems, where sensitive information such as intellectual property and customer data is the lifeblood of operations. Protecting this data is crucial to prevent unauthorized access and breaches by malicious actors. In this tutorial, we'll discuss six key points in data security and how to implement them effectively.
 
