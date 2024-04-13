@@ -1,0 +1,34 @@
+title Data Security Cycle
+
+participant "Governance" as G
+participant "Discovery" as D
+participant "Protection" as P
+participant "Compliance" as C
+participant "Detection" as Dt
+participant "Response" as R
+
+note over G, R: Data Security Cycle
+
+G->D: Establish policies
+G->D: Define classification scheme
+G->D: Create data catalog
+G->D: Ensure resilience plans
+
+D->P: Identify data location
+D->P: Scan databases and files
+D->P: Monitor network traffic
+
+P->C: Implement encryption
+P->C: Manage keys securely
+P->C: Set access controls
+P->C: Backup data
+
+C->Dt: Adhere to regulations
+C->Dt: Maintain logs and reports
+C->Dt: Define data retention policies
+
+Dt->R: Monitor for anomalies
+Dt->R: Use User Behavior Analytics
+Dt->R: Generate alerts
+
+R->G: Feedback and improvement
